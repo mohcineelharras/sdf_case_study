@@ -1,2 +1,4 @@
 # sdf_case_study
-sdf exam codes
+Guillaume Cullerier
+Mickaël El Alam
+Mohcine El Harras
